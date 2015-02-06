@@ -1,4 +1,4 @@
-require "jserializer/version"
+require 'jserializer/version'
 
 module Jserializer
   # Your code goes here...
